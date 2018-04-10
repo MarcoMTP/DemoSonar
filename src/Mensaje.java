@@ -6,8 +6,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
 
- 	System.out.println("Searching again...");
-	System.out.println("Modifying in Branch");
+ 	System.out.println("...");
+	System.out.println("Modifying in Branch again");
 
 	}
 
