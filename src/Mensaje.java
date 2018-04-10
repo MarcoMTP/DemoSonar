@@ -7,6 +7,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
 
 	System.out.println("Master");
+	System.out.println("and user");
 	System.out.println("Modifying in master branch");
 
 	}
